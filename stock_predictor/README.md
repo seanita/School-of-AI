@@ -35,7 +35,7 @@ Forecasting 1% of data:
 ![alt text](https://github.com/seanita/School-of-AI/blob/master/stock_predictor/images/Forecast%201%25%20of%20data.png)
 
 Forecasting 2% of data
-![alt text](stock_predictor/images/Forecast 2% of data.png)
+![alt text](https://github.com/seanita/School-of-AI/blob/master/stock_predictor/images/Forecast%202%25%20of%20data.png)
 
 Forecasting 12.5% of data:
 ![alt text](stock_predictor/images/Forecast 12.5% of data.png)
