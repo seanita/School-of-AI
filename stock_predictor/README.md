@@ -32,13 +32,13 @@ LR < Quad 2 < Quad 1< KNN < SCM
 Linear performance graph with forecasting:
 
 Forecasting 1% of data:
-![alt text](stock_predictor/images/Forecast 1% of data.png)
+(stock_predictor/images/Forecast 1% of data.png)
 
 Forecasting 2% of data
 ![alt text](stock_predictor/images/Forecast 2% of data.png)
 
 Forecasting 12.5% of data:
-![alt text](stock_predictor/images/Forecast%2012.5%25%20of%20data.png)
+![alt text](stock_predictor/images/Forecast 12.5% of data.png)
 
 Forecasting 30-days:
 ![alt text](stock_predictor/images/Forecast 30 days.png)
