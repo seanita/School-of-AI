@@ -23,7 +23,8 @@ Scikit models tested include:
 
 Confidence scores:
 ```
-Confidence scores varied, but improve with number of features and shorten forecast time. This makes sense as the level of confidence goes down over time and with fewer features to feed the algorithm. 
+Confidence scores varied, but improved with more features and a shorter forecast time. 
+This makes sense as the level of confidence goes down over time and with fewer features to feed the algorithm. 
 ```
 ```
 LR < Quad 2 < Quad 1< KNN < SCM
