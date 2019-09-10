@@ -1,25 +1,15 @@
 # Netflix Stock Predictor
 
-Credits:
-```
-V. Tatan
-R. Anderson [Predict Stock Prices using ML](https://medium.com/@randerson112358/predict-stock-prices-using-python-machine-learning-53aa024da20a)
-
-
-This program predict NFLX stock projected 30 days into the future.
+## This program performs a 30-day projection of NFLX's stock price 
 
 Data is collected from Yahoo Finance
 
 Features included in model include:
 ```
-* Adjusted Closing Price
-* Volume
-```
-
-Features added include:
-```
-* High PCT - the percentage of change, (high-low)/closing price
-* PCT Change - how much stock has changed at closing
+1. Adjusted Closing Price (given)
+2. Volume (given)
+3. High PCT (added) - the percentage of change, (high-low)/closing price
+4. PCT Change (added) - how much stock has changed at closing
 ```
 
 Scikit models tested include:
@@ -32,10 +22,18 @@ Scikit models tested include:
 ```
 
 Confidence scores:
+```
+Confidence scores varied, but improve with number of features and shorten forecast time. This makes sense as the level of confidence goes down over time and less fetures to fewer features to feed the algorithm. 
+```
+```
+Quad 2 < Quad 1< LR < SVM < KNN
+```
+
+Performance graph:
 
 
-Performance:
-_ Of all the above models, Quadratice Regression with 2 polynomials 
 
 
-Plot:
+Credits:
+- V. Tatan [Stock Analysis with Pandas and Scikit Learn](https://towardsdatascience.com/in-12-minutes-stocks-analysis-with-pandas-and-scikit-learn-a8d8a7b50ee7)
+- R. Anderson [Predict Stock Prices using ML](https://medium.com/@randerson112358/predict-stock-prices-using-python-machine-learning-53aa024da20a)
