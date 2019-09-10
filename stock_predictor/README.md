@@ -41,9 +41,7 @@ Forecasting 12.5% of data:
 ![alt text](stock_predictor/images/Forecast%2012.5%25%20of%20data.png)
 
 Forecasting 30-days:
-![alt text](stock_predictor/images/Forecast 2% of data.png)
-
-
+![alt text](stock_predictor/images/Forecast 30 days.png)
 
 
 
