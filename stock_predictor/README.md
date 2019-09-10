@@ -35,10 +35,10 @@ Forecasting 1% of data:
 ![alt text](https://github.com/seanita/School-of-AI/blob/master/stock_predictor/images/Forecast%201%25%20of%20data.png)
 
 Forecasting 2% of data
-![alt text]()
+![alt text](https://github.com/seanita/School-of-AI/blob/master/stock_predictor/images/Forecast%2012.5%25%20of%20data.png)
 
 Forecasting 12.5% of data:
-![alt text]()
+![alt text](https://github.com/seanita/School-of-AI/blob/master/stock_predictor/images/Forecast%2012.5%25%20of%20data.png)
 
 Forecasting 30-days:
 ![alt text]()
