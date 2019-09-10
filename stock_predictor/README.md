@@ -1,25 +1,35 @@
 # Netflix Stock Predictor
 
+Credits:
+```
+V. Tatan
+R. Anderson [Predict Stock Prices using ML](https://medium.com/@randerson112358/predict-stock-prices-using-python-machine-learning-53aa024da20a)
+
+
 This program predict NFLX stock projected 30 days into the future.
 
 Data is collected from Yahoo Finance
 
 Features included in model include:
-_ Adjusted Closing Price
-_ Volume
+```
+* Adjusted Closing Price
+* Volume
+```
 
 Features added include:
-_ High PCT - the percentage of change, (high-low)/closing price
-_ PCT Change - how much stock has changed at closing
+```
+* High PCT - the percentage of change, (high-low)/closing price
+* PCT Change - how much stock has changed at closing
+```
 
 Scikit models tested include:
-
-* _ Linear Regression
-_ Quadratic Regression, 2 polynomials
-_ Quadratic Regression, 3 polynomials
-_ SVM Radial Basis Function (rbf) model
-_ KNN Regression
-*
+```
+* Linear Regression
+* Quadratic Regression, 2 polynomials
+* Quadratic Regression, 3 polynomials
+* SVM Radial Basis Function (rbf) model
+* KNN Regression
+```
 
 Confidence scores:
 
