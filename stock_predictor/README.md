@@ -1,4 +1,4 @@
-Netflix Stock Predictor
+# Netflix Stock Predictor
 
 This program predict NFLX stock projected 30 days into the future.
 
@@ -13,12 +13,13 @@ _ High PCT - the percentage of change, (high-low)/closing price
 _ PCT Change - how much stock has changed at closing
 
 Scikit models tested include:
+*
 _ Linear Regression
 _ Quadratic Regression, 2 polynomials
 _ Quadratic Regression, 3 polynomials
 _ SVM Radial Basis Function (rbf) model
 _ KNN Regression
-
+*
 
 Confidence scores:
 
