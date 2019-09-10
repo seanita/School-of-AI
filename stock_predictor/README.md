@@ -23,13 +23,22 @@ Scikit models tested include:
 
 Confidence scores:
 ```
-Confidence scores varied, but improve with number of features and shorten forecast time. This makes sense as the level of confidence goes down over time and less fetures to fewer features to feed the algorithm. 
+Confidence scores varied, but improve with number of features and shorten forecast time. This makes sense as the level of confidence goes down over time and with fewer features to feed the algorithm. 
 ```
 ```
-Quad 2 < Quad 1< LR < SVM < KNN
+LR < Quad 2 < Quad 1< KNN < SCM
 ```
 
-Performance graph:
+Linear performance graph with forecasting:
+
+Forecasting 1% of data:
+
+Forecasting 2% of data
+
+Forecasting 1/8 of data:
+
+Forecasting 30-days:
+
 
 
 
