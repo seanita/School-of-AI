@@ -2,10 +2,10 @@
 
 ## This program performs a 30-day projection of NFLX's stock price 
 
-
 Credits:
-- V. Tatan [Stock Analysis with Pandas and Scikit Learn](https://towardsdatascience.com/in-12-minutes-stocks-analysis-with-pandas-and-scikit-learn-a8d8a7b50ee7)
-- R. Anderson [Predict Stock Prices using ML](https://medium.com/@randerson112358/predict-stock-prices-using-python-machine-learning-53aa024da20a)
+> - V. Tatan [Stock Analysis with Pandas and Scikit Learn](https://towardsdatascience.com/in-12-minutes-stocks-analysis-with-pandas-and-scikit-learn-a8d8a7b50ee7)
+> - R. Anderson [Predict Stock Prices using ML](https://medium.com/@randerson112358/predict-stock-prices-using-python-machine-learning-53aa024da20a)
+
 
 Data is collected from Yahoo Finance
 
