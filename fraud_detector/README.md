@@ -1,10 +1,10 @@
 # Credit Card Fraud Detector
 
-## This is an exercise from Kaggle to detect fraud using a normalized dataset that includes 28 feature excluding transaction amount and time. 
+## This is to detect fraud using Kaggle's normalized dataset that includes 28 feature excluding transaction amount and time. 
 
-Each record (row) is a transaction either labeled with Class 0 or 1, normal or fraud. Data was gathered, processed and visualized. A test set was parsed from the training data and a model, logistic regression, was applied. The results were analyzed and a confusion matrix applied to results to visualize precision, recall and F1 scores.
+Each record (row) is a transaction either labeled with Class 0 or 1, normal or fraud. Data was gathered, processed and visualized. A test set was parsed from the training data and an LR model applied. The results were analyzed and a confusion matrix applied to results to visualize precision, recall and F1 scores.
 
-There is an obvious overfitting of data and I don't think LR is the best model fit. I would like to further apply normalization as well as look at other parameters and models to determine best fit. 
+There is an obvious overfitting and I don't think the LR model is the best one for this imbalanced dataset. I would like to further apply normalization as well as look at other parameters and models. 
 
 The code attached is the very beginning. Stop back again later.
 
