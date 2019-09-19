@@ -11,4 +11,4 @@ The code attached is the very beginning. Stop back again later.
 Credits:
 > - V. Volkov [Credit Card Fraud Detection using Autoencoders in Keras | TensorFlow for Hackers (Part VII)](https://www.curiousily.com/posts/credit-card-fraud-detection-using-autoencoders-in-keras/)
 > - Y. Obeidi [Predict Stock Prices using ML](https://medium.com/@randerson112358/predict-stock-prices-using-python-machine-learning-53aa024da20a)
-> - A. Choudury[Credit Card Fraud Detection by Neural network in Keras Framework](https://blog.usejournal.com/credit-card-fraud-detection-by-neural-network-in-keras-4bd81cc9e7fe)
+> - A. Choudury [Credit Card Fraud Detection by Neural network in Keras Framework](https://blog.usejournal.com/credit-card-fraud-detection-by-neural-network-in-keras-4bd81cc9e7fe)
