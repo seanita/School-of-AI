@@ -1,3 +1,3 @@
-# soa_mm_ml
+# ML exercises
 
-Housing School of AI projects. More to come. 
+More to come. 
